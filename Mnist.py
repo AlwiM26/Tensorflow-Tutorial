@@ -42,3 +42,4 @@ model.save('mnist_classifier.model')
 #and display it using pyplot
 # plt.imshow(pixels, cmap='binary')
 # plt.show()
+#baru ni
