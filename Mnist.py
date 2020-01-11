@@ -43,3 +43,4 @@ model.save('mnist_classifier.model')
 # plt.imshow(pixels, cmap='binary')
 # plt.show()
 #baru ni
+#baru di branch baru
